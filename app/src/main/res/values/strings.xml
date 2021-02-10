@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatClient</string>
+    <string name="hintTexto">Envía un mensaje</string>
+    <string name="btEnviar">Enviar</string>
+    <string name="textSalir">Salir</string>
+    <string name="textIntroduceNombre">Introduce tu nombre</string>
+    <string name="hintName">Nombre</string>
+    <string name="textEntrar">Entrar</string>
+</resources>
